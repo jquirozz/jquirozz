@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Joseph Quiroz</h1>
-<h3 align="center">A passionate frontend developer from Panama</h3>
+<h1>Hi 👋, I'm Joseph Quiroz</h1>
+<h3>A passionate frontend developer from Panama</h3>
 
 - 🔭 I’m currently working on [Blinked](https://blinked-app.netlify.app/)
 
